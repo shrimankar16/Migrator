@@ -1,0 +1,13 @@
+# Environment variables — contains real passwords and secret keys, never commit this
+.env
+
+# Node dependencies
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
